@@ -40,6 +40,13 @@ Sou desenvolvedor de **Curitiba, PR**, focado em criar aplicações web e mobile
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
+### DevOps e Infraestrutura
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+</p>
+
 <br>
 
 ## Estatísticas do GitHub
@@ -63,7 +70,7 @@ Sou desenvolvedor de **Curitiba, PR**, focado em criar aplicações web e mobile
   <a href="https://github.com/simetria-studio">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:felipephplow@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
